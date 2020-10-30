@@ -1,2 +1,0 @@
-# macostan.com
-dsds
