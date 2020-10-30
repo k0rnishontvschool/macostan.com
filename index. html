@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Download!-Скачать!</title>
+    <style>
+        .o{
+            background-color: #1eff00;
+            color: #ff2511;
+        }
+        .o:hover{
+            animation-name: non;
+            animation-duration: 1s;
+        }
+        @keyframes non {
+            0%{
+                background-color: #00ff5a;
+            }
+            100%{
+                background-image: linear-gradient(#ff2800, #fff412, cyan);
+            }
+        }
+    </style>
+</head>
+<body>
+<a href="https://yadi.sk/d/lyQAoSjHBrIujQ?w=1" class="o">Скачать</a>
+</body>
+</html>
